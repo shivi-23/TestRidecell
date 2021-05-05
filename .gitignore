@@ -1,0 +1,12 @@
+.cache
+.idea/
+.pytest_cache/
+__pycache__
+*.pyc
+*.zip
+log
+report/
+*allure*
+.dist/
+.pxwhite.egg-info/
+.build/
